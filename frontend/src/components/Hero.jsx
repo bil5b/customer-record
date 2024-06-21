@@ -5,7 +5,7 @@ const Hero = () => {
     <div className=' py-5'>
       <Container className='d-flex justify-content-center'>
         <Card className='p-5 d-flex flex-column align-items-center hero-card bg-light w-75'>
-          <h1 className='text-center mb-4'>Customer Data</h1>
+          <h1 className='text-center mb-4'>Customer Record</h1>
           <div className='d-flex'>
             <Button variant='primary' href='/save' className='me-3'>
               Save new customer
